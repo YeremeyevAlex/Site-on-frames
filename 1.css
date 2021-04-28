@@ -1,0 +1,25 @@
+input{
+	background-color: lightgray;
+	font-size: 20px;
+	border: none;
+}
+textarea{
+	background-color: lightgray;
+	width: 488px;
+	border: none;
+}
+.btn{
+	background-color: orange;
+	border: none;
+	width: 494px;
+	height: 35px;
+	color: white;
+	font-size: 13px;
+	font-family: Verdana;
+}
+.busi{
+	width: 490px;
+}
+.cmp{
+	width: 490px;
+}
